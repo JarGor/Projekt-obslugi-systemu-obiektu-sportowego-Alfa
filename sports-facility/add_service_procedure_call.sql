@@ -1,0 +1,1 @@
+call sports_facility.add_service(3, 'Jogging', 120);
